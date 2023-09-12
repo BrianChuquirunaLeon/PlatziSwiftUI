@@ -7,18 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D37C85A72AAFAD5E009E7406 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37C85A62AAFAD5E009E7406 /* Buttons.swift */; };
+		D37C85A92AAFC033009E7406 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37C85A82AAFC033009E7406 /* Images.swift */; };
+		D37C85AB2AAFCC63009E7406 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37C85AA2AAFCC63009E7406 /* TextFields.swift */; };
 		D396622C2A5BE5C600EEC82C /* PlatziApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D396622B2A5BE5C600EEC82C /* PlatziApp.swift */; };
 		D396622E2A5BE5C600EEC82C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D396622D2A5BE5C600EEC82C /* ContentView.swift */; };
 		D39662302A5BE5C700EEC82C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D396622F2A5BE5C700EEC82C /* Assets.xcassets */; };
 		D39662332A5BE5C700EEC82C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D39662322A5BE5C700EEC82C /* Preview Assets.xcassets */; };
+		D396623B2A5BF4AD00EEC82C /* TextMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = D396623A2A5BF4AD00EEC82C /* TextMod.swift */; };
+		D3A586E62AB08EB300EB69B7 /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A586E52AB08EB300EB69B7 /* Dividers.swift */; };
+		D3A586E82AB0915A00EB69B7 /* HstackVstackSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A586E72AB0915A00EB69B7 /* HstackVstackSpacer.swift */; };
+		D3A586EA2AB099C400EB69B7 /* ZstackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A586E92AB099C400EB69B7 /* ZstackPadding.swift */; };
+		D3A586EC2AB0AB3F00EB69B7 /* Tabviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A586EB2AB0AB3F00EB69B7 /* Tabviews.swift */; };
+		D3A586EE2AB0B52F00EB69B7 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A586ED2AB0B52F00EB69B7 /* Navigations.swift */; };
+		D3A586F02AB0C9CD00EB69B7 /* VideoPlayers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A586EF2AB0C9CD00EB69B7 /* VideoPlayers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D37C85A62AAFAD5E009E7406 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		D37C85A82AAFC033009E7406 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		D37C85AA2AAFCC63009E7406 /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
 		D39662282A5BE5C600EEC82C /* Platzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Platzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D396622B2A5BE5C600EEC82C /* PlatziApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziApp.swift; sourceTree = "<group>"; };
 		D396622D2A5BE5C600EEC82C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D396622F2A5BE5C700EEC82C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D39662322A5BE5C700EEC82C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D39662392A5BE8FD00EEC82C /* variablesConstantes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variablesConstantes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D396623A2A5BF4AD00EEC82C /* TextMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMod.swift; sourceTree = "<group>"; };
+		D3A586E52AB08EB300EB69B7 /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
+		D3A586E72AB0915A00EB69B7 /* HstackVstackSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HstackVstackSpacer.swift; sourceTree = "<group>"; };
+		D3A586E92AB099C400EB69B7 /* ZstackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstackPadding.swift; sourceTree = "<group>"; };
+		D3A586EB2AB0AB3F00EB69B7 /* Tabviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabviews.swift; sourceTree = "<group>"; };
+		D3A586ED2AB0B52F00EB69B7 /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
+		D3A586EF2AB0C9CD00EB69B7 /* VideoPlayers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +76,17 @@
 				D396622D2A5BE5C600EEC82C /* ContentView.swift */,
 				D396622F2A5BE5C700EEC82C /* Assets.xcassets */,
 				D39662312A5BE5C700EEC82C /* Preview Content */,
+				D39662392A5BE8FD00EEC82C /* variablesConstantes.playground */,
+				D396623A2A5BF4AD00EEC82C /* TextMod.swift */,
+				D37C85A62AAFAD5E009E7406 /* Buttons.swift */,
+				D37C85A82AAFC033009E7406 /* Images.swift */,
+				D37C85AA2AAFCC63009E7406 /* TextFields.swift */,
+				D3A586E52AB08EB300EB69B7 /* Dividers.swift */,
+				D3A586E72AB0915A00EB69B7 /* HstackVstackSpacer.swift */,
+				D3A586E92AB099C400EB69B7 /* ZstackPadding.swift */,
+				D3A586EB2AB0AB3F00EB69B7 /* Tabviews.swift */,
+				D3A586ED2AB0B52F00EB69B7 /* Navigations.swift */,
+				D3A586EF2AB0C9CD00EB69B7 /* VideoPlayers.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -137,8 +169,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3A586F02AB0C9CD00EB69B7 /* VideoPlayers.swift in Sources */,
 				D396622E2A5BE5C600EEC82C /* ContentView.swift in Sources */,
+				D3A586E62AB08EB300EB69B7 /* Dividers.swift in Sources */,
 				D396622C2A5BE5C600EEC82C /* PlatziApp.swift in Sources */,
+				D3A586E82AB0915A00EB69B7 /* HstackVstackSpacer.swift in Sources */,
+				D37C85A92AAFC033009E7406 /* Images.swift in Sources */,
+				D396623B2A5BF4AD00EEC82C /* TextMod.swift in Sources */,
+				D37C85A72AAFAD5E009E7406 /* Buttons.swift in Sources */,
+				D37C85AB2AAFCC63009E7406 /* TextFields.swift in Sources */,
+				D3A586EC2AB0AB3F00EB69B7 /* Tabviews.swift in Sources */,
+				D3A586EE2AB0B52F00EB69B7 /* Navigations.swift in Sources */,
+				D3A586EA2AB099C400EB69B7 /* ZstackPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
